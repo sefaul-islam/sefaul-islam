@@ -1,170 +1,249 @@
-# Hi, I'm Sefa Islam 👋
-
 <div align="center">
 
-### Backend Engineer • Cloud Enthusiast • Full Stack Developer
+# Hi 👋, I'm Sefaul Islam
 
-Building scalable backend systems, cloud infrastructure, and production-ready applications.
+### 💙 Backend Developer | Java | Spring Boot | DevOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Cloud+%26+DevOps+Learner;Docker+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,12,30&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+UIU;Backend+Developer;Java+%7C+Spring+Boot+%7C+React;Backend+%26+REST+API+Development;Docker+%7C+AWS+%7C+Kubernetes;DevOps+%26+Cloud+Engineering;Building+Real-World+Projects"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Software Engineering student passionate about designing systems that solve real-world problems.
+🎓 Computer Science student at **United International University (UIU)**
 
-My primary interests are:
+💻 Interested in **Backend Development, DevOps, Cloud Engineering and Software Development**
 
-- ⚙️ Backend Engineering
-- ☁️ Cloud Computing
-- 🐳 DevOps
-- 🏗️ System Design
-- 🌐 Distributed Systems
+🚀 I build practical applications using **Java, Spring Boot, React, databases and REST APIs**.
 
-Over the past year I've been expanding beyond traditional full-stack development into infrastructure, deployment automation, cloud architecture, and scalable application design.
+🧩 I enjoy solving **Data Structures & Algorithms** problems and continuously improving my problem-solving skills.
 
-I enjoy understanding **how software works in production**, not just how it runs locally.
+🌱 Currently focusing on **Spring Boot, REST APIs, Authentication, Docker, AWS, Kubernetes, Terraform and CI/CD**.
+
+🐧 Comfortable working with **Linux, Git and GitHub** and exploring modern DevOps practices.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,html,css,python,bash"/>
+</p>
 
----
+### ⚙️ Frameworks & Development
 
-## Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,react"/>
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+### 🗄️ Databases
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+</p>
 
-## Frontend
+### ☁️ DevOps & Cloud
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,kubernetes,terraform,nginx"/>
+</p>
 
----
+### 🔧 Tools
 
-## Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postman,vscode,linux,githubactions"/>
+</p>
 
 ---
 
-## Cloud & DevOps
+# 🚀 Featured Projects
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-blue?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+### 📦 Project 01
 
----
+**Project Name**
 
-# 📌 Featured Projects
+Project description will be added here.
 
-### 🎵 SocialStream
+**Tech:** Java • Spring Boot • React • Database • Docker
 
-A real-time synchronized music streaming platform.
-
-**Tech**
-
-- React
-- Spring Boot
-- Redis
-- MongoDB
-- MySQL
-- WebSockets
-- Cloudinary
+🔗 **Repository:** Add later
 
 ---
 
-### 💼 SkillSprint
+### 🏫 Project 02
 
-A marketplace connecting students with startups through micro-internships and real-world tasks.
+**Project Name**
 
----
+Project description will be added here.
 
-### 🏥 Hospital Queue Management System
+**Tech:** Java • Spring Boot • MySQL • React
 
-A modern queue management platform for hospitals with optimized patient flow and doctor scheduling.
-
----
-
-### 🏘 UIU Housing Society
-
-A housing platform connecting students with available accommodations near campus.
+🔗 **Repository:** Add later
 
 ---
 
-# 📈 Currently Learning
+### 🎵 Project 03
 
-- ECS Fargate
-- Terraform
-- Kubernetes
-- Infrastructure as Code
-- Monitoring & Logging
-- Microservices Architecture
+**Project Name**
+
+Project description will be added here.
+
+**Tech:** Java • Spring Boot • React • MongoDB • Redis
+
+🔗 **Repository:** Add later
+
+---
+
+# 🧩 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,aws,terraform"/>
+</p>
+
+* ☕ Advanced Spring Boot
+* 🔐 JWT Authentication & Spring Security
+* 🌐 REST API Development
+* 🐳 Docker & Containerization
+* ☸️ Kubernetes
+* ☁️ AWS & Cloud Engineering
+* 🏗️ Terraform & Infrastructure as Code
+* 🔄 CI/CD with GitHub Actions
+* 🏗️ System Design
+* 🌍 Open Source Contribution
+
+---
+
+# 🧠 DSA & Coding
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Sefaul-Islam/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img
+width="80%"
+src="https://leetcard.jacoblin.cool/Sefaul-Islam?theme=dark&font=Karma&ext=contest"
+alt="LeetCode Profile"
+/>
+
+</p>
+
+I regularly practice **Data Structures & Algorithms** and work on improving my problem-solving skills through LeetCode.
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefaul-islam&theme=tokyonight"
+width="95%"
+alt="GitHub Profile Summary"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sefaul-islam&theme=tokyonight"
+width="45%"
+alt="Repositories Per Language"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sefaul-islam&theme=tokyonight"
+width="45%"
+alt="Most Commit Language"
+/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</p>
 
 ---
 
 # 🎯 2026 Goals
 
-- Build production-ready cloud applications
-- Master AWS architecture
-- Learn Kubernetes
-- Contribute to Open Source
-- Land a Backend / Cloud / DevOps Engineering role
+* ⭐ Become job-ready for **Backend & DevOps roles**
+* 🚀 Build **production-ready full-stack applications**
+* ☕ Strengthen **Java & Spring Boot**
+* 🏗️ Improve **System Design**
+* 🐳 Master **Docker & CI/CD**
+* ☁️ Strengthen **AWS & Cloud Engineering**
+* ☸️ Become comfortable with **Kubernetes**
+* 🏗️ Learn **Terraform & Infrastructure as Code**
+* 🌍 Contribute to **Open Source**
+* 💼 Secure a **Software Engineering / DevOps Internship**
 
 ---
 
-# 📊 GitHub Stats
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sefaulislam.off@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sefaulislam1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Sefaul-Islam/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sefaul-islam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sefaul-islam&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 💙 Keep Building. Keep Learning. Keep Improving.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sefaul-islam&theme=tokyonight&hide_border=true"/>
+*"Consistency compounds — one commit, one bug fix, one solved problem at a time."*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefaul-islam&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
 
-</div>
-
----
-
-# 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sefaulislam1)
-
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/sefaul)
-
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/sefaul_007)
-
-📧 **sefaulislam.off@gmail.com**
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=sefaul-islam&style=for-the-badge)
-
-**Thanks for visiting! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=gradient&customColorList=6,12,30"/>
 
 </div>

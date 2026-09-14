@@ -64,17 +64,20 @@
 
 # 🚀 Featured Projects
 
-### 📦 Project 01
+### 🍔 Project 01
 
-**Project Name**
+**QuickMunch — Food Delivery Platform**
 
-Project description will be added here.
+A **microservices-based food delivery platform currently under development**, focused on building a scalable backend and exploring modern DevOps practices. The project is being developed with **Spring Boot, Docker, Kubernetes, Terraform, and GitHub Actions**.
 
-**Tech:** Java • Spring Boot • React • Database • Docker
+The first implemented component is the **User Service**, which handles user authentication, Google OAuth2 login, user information, and persistent user data using PostgreSQL. The remaining services and infrastructure are being developed incrementally.
 
-🔗 **Repository:** Add later
+**Planned:** Restaurant & Menu Management • Cart • Orders • Payments • Notifications • Reviews • Kubernetes Deployment • Terraform Infrastructure • CI/CD
 
----
+**Tech:** Java • Spring Boot • Spring Security • PostgreSQL • OAuth2 • Docker • Kubernetes • Terraform • GitHub Actions
+
+🔗 **Repository:** https://github.com/sefaul-islam/QuickMunch
+
 
 ### 🏫 Project 02
 

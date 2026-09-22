@@ -122,30 +122,6 @@ Project description will be added here.
 
 ---
 
-# 🧠 DSA & Coding
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Sefaul-Islam/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img
-width="80%"
-src="https://leetcard.jacoblin.cool/Sefaul-Islam?theme=dark&font=Karma&ext=contest"
-alt="LeetCode Profile"
-/>
-
-</p>
-
-I regularly practice **Data Structures & Algorithms** and work on improving my problem-solving skills through LeetCode.
-
----
-
 # 📊 GitHub Activity
 
 <p align="center">

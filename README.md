@@ -176,21 +176,6 @@ src="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-c
 
 ---
 
-# 🎯 2026 Goals
-
-* ⭐ Become job-ready for **Backend & DevOps roles**
-* 🚀 Build **production-ready full-stack applications**
-* ☕ Strengthen **Java & Spring Boot**
-* 🏗️ Improve **System Design**
-* 🐳 Master **Docker & CI/CD**
-* ☁️ Strengthen **AWS & Cloud Engineering**
-* ☸️ Become comfortable with **Kubernetes**
-* 🏗️ Learn **Terraform & Infrastructure as Code**
-* 🌍 Contribute to **Open Source**
-* 💼 Secure a **Software Engineering / DevOps Internship**
-
----
-
 # 📫 Connect With Me
 
 <p align="center">

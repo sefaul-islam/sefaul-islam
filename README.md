@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Hi 👋, I'm Sefaul Islam
 
 ### 💙 Junior Software Engineer | Java | Spring Boot | DevOps
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,12,30&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,12,30&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+UIU;Backend+Developer;Java+%7C+Spring+Boot+%7C+React;Backend+%26+REST+API+Development;Docker+%7C+AWS+%7C+Kubernetes;DevOps+%26+Cloud+Engineering;Building+Real-World+Projects"/>
 
@@ -14,17 +14,17 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at **United International University (UIU)**
+🎓 Computer Science student at **United International University (UIU)**.
 
-💻 Interested in **Backend Development, DevOps, Cloud Engineering and Software Development**
+💻 Interested in **Backend Development, DevOps, Cloud Engineering, and Software Development**.
 
-🚀 I build practical applications using **Java, Spring Boot, React, databases and REST APIs**.
+🚀 I build practical applications using **Java, Spring Boot, React, databases, and REST APIs**.
 
 🧩 I enjoy solving **Data Structures & Algorithms** problems and continuously improving my problem-solving skills.
 
-🌱 Currently focusing on **Spring Boot, REST APIs, Authentication, Docker, AWS, Kubernetes, Terraform and CI/CD**.
+🌱 Currently focusing on **Spring Boot, REST APIs, Authentication, Docker, AWS, Kubernetes, Terraform, and CI/CD**.
 
-🐧 Comfortable working with **Linux, Git and GitHub** and exploring modern DevOps practices.
+🐧 Comfortable working with **Linux, Git, and GitHub** while exploring modern DevOps practices.
 
 ---
 
@@ -42,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=spring,react"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
@@ -64,42 +64,97 @@
 
 # 🚀 Featured Projects
 
-### 🍔 Project 01
+<p align="center">
+  A collection of projects showcasing my work in backend engineering, full-stack development, distributed systems, and cloud technologies.
+</p>
 
-**QuickMunch — Food Delivery Platform**
+## 🍔 01. QuickMunch
 
-A **microservices-based food delivery platform currently under development**, focused on building a scalable backend and exploring modern DevOps practices. The project is being developed with **Spring Boot, Docker, Kubernetes, Terraform, and GitHub Actions**.
+### Microservices-Based Food Delivery Platform
 
-The first implemented component is the **User Service**, which handles user authentication, Google OAuth2 login, user information, and persistent user data using PostgreSQL. The remaining services and infrastructure are being developed incrementally.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-brightgreen?style=for-the-badge"/>
+</p>
 
-**Planned:** Restaurant & Menu Management • Cart • Orders • Payments • Notifications • Reviews • Kubernetes Deployment • Terraform Infrastructure • CI/CD
+A production-oriented food delivery platform designed around independently deployable microservices. The project focuses on scalable backend engineering, secure service communication, asynchronous event processing, and cloud-native infrastructure.
 
-**Tech:** Java • Spring Boot • Spring Security • PostgreSQL • OAuth2 • Docker • Kubernetes • Terraform • GitHub Actions
+**✨ Key Features & Engineering Highlights**
 
-🔗 **Repository:** https://github.com/sefaul-islam/QuickMunch
+- **Microservices Architecture:** Independent User, Restaurant, Order, and Notification services.
+- **Identity & Access Management:** Centralized authentication and authorization using Keycloak and OAuth2.
+- **Asynchronous Communication:** RabbitMQ-based event-driven communication between services.
+- **Caching:** Redis integration for efficient data access and performance optimization.
+- **Database Management:** PostgreSQL with independently managed service data.
+- **Containerization:** Docker-based service packaging and deployment.
+- **Infrastructure as Code:** Terraform for infrastructure provisioning.
+- **Orchestration:** Kubernetes for container orchestration.
+- **CI/CD:** GitHub Actions for automated build, test, and deployment workflows.
 
+**🧰 Technology Stack**
 
-### 🏫 Project 02
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,rabbitmq,docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,githubactions"/>
+</p>
 
-**Project Name**
-
-Project description will be added here.
-
-**Tech:** Java • Spring Boot • MySQL • React
-
-🔗 **Repository:** Add later
+<p align="center">
+  <a href="https://github.com/sefaul-islam/QuickMunch">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🎵 Project 03
+## 🌐 02. SocialStream
 
-**Project Name**
+### Full-Stack Social Media Platform
 
-Project description will be added here.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Full--Stack-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-purple?style=for-the-badge"/>
+</p>
 
-**Tech:** Java • Spring Boot • React • MongoDB • Redis
+A fully developed full-stack social media platform combining modern web technologies, real-time communication, collaborative media experiences, and machine learning-powered recommendations.
 
-🔗 **Repository:** Add later
+**✨ Key Features & Engineering Highlights**
+
+- **Full-Stack Development:** React frontend integrated with a Spring Boot backend.
+- **RESTful APIs:** Backend API development and integration.
+- **Real-Time Communication:** Interactive real-time communication and collaborative media rooms.
+- **Recommendation Engine:** Machine learning-powered recommendation functionality.
+- **AI Service Integration:** Dedicated Python/FastAPI recommendation service integrated with the core application.
+- **Multiple Databases:** MySQL and MongoDB for relational and document-based data management.
+- **Caching:** Redis integration for improved performance.
+- **Media Management:** Cloudinary integration for media storage and delivery.
+- **Service Integration:** Communication between the main backend and the Python recommendation service.
+
+**🧰 Technology Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,fastapi"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sefaul-islam/SocialStream">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 What I'm Building Toward
+
+My focus is on developing software that goes beyond basic CRUD applications.
+
+- Scalable backend systems and microservices.
+- Distributed systems and asynchronous communication.
+- Cloud infrastructure and Infrastructure as Code.
+- Container orchestration and automated deployments.
+- AI-powered applications and intelligent integrations.
 
 ---
 
@@ -109,45 +164,28 @@ Project description will be added here.
 <img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,aws,terraform"/>
 </p>
 
-* ☕ Advanced Spring Boot
-* 🔐 JWT Authentication & Spring Security
-* 🌐 REST API Development
-* 🐳 Docker & Containerization
-* ☸️ Kubernetes
-* ☁️ AWS & Cloud Engineering
-* 🏗️ Terraform & Infrastructure as Code
-* 🔄 CI/CD with GitHub Actions
-* 🏗️ System Design
-* 🌍 Open Source Contribution
+- ☕ Advanced Spring Boot
+- 🔐 Authentication & Spring Security
+- 🌐 REST API Development
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes
+- ☁️ AWS & Cloud Engineering
+- 🏗️ Terraform & Infrastructure as Code
+- 🔄 CI/CD with GitHub Actions
+- 🏛️ System Design
+- 🌍 Open Source Contribution
 
 ---
 
 # 📊 GitHub Activity
 
 <p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefaul-islam&theme=tokyonight"
-width="95%"
-alt="GitHub Profile Summary"
-/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefaul-islam&theme=tokyonight" width="95%" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sefaul-islam&theme=tokyonight"
-width="45%"
-alt="Repositories Per Language"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sefaul-islam&theme=tokyonight"
-width="45%"
-alt="Most Commit Language"
-/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sefaul-islam&theme=tokyonight" width="45%" alt="Repositories Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sefaul-islam&theme=tokyonight" width="45%" alt="Most Commit Language"/>
 </p>
 
 ---
@@ -155,23 +193,11 @@ alt="Most Commit Language"
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake.svg">
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake.svg">
-
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake.svg">
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
 </p>
 
 ---
@@ -208,6 +234,6 @@ src="https://raw.githubusercontent.com/sefaul-islam/sefaul-islam/output/github-c
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=gradient&customColorList=6,12,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=gradient&customColorList=6,12,30" width="100%"/>
 
 </div>

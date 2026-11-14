@@ -64,11 +64,67 @@
 
 # 🚀 Featured Projects
 
+---
+
+## 🚀 01. DevConnect Pro
+
+### End-to-End Microservices Deployment & GitOps Automation Platform
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-GitOps-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure-AWS-orange?style=for-the-badge"/>
+</p>
+
+An end-to-end DevOps project demonstrating the deployment and management of a containerized microservices application on AWS. The project implements Infrastructure as Code, automated CI/CD pipelines, Kubernetes orchestration, GitOps-based continuous delivery, security scanning, and centralized observability.
+
+**✨ Key Features & Engineering Highlights**
+
+- **Microservices Architecture:** 10-component application architecture consisting of React frontend, FastAPI-based backend services, and supporting infrastructure.
+- **Independent Services:** Authentication, User, Post, Like, Comment, Analytics, and Worker services with dedicated responsibilities.
+- **Infrastructure as Code:** Terraform automates AWS EC2 infrastructure provisioning and configuration.
+- **Containerization:** Docker and Docker Compose for containerized application development and local environments.
+- **Container Orchestration:** Kubernetes (k3s) cluster deployed on AWS EC2 for application orchestration and management.
+- **Automated CI/CD:** GitHub Actions automates testing, security checks, Docker image builds, and publishing to Docker Hub.
+- **GitOps Deployment:** Argo CD continuously monitors Kubernetes manifests and synchronizes application deployments with the Git repository.
+- **Kubernetes Configuration Management:** Kustomize manages Kubernetes deployment manifests and environment configurations.
+- **Security Scanning:** Integrated Trivy, OWASP Dependency-Check, and SonarQube for container vulnerability scanning, dependency analysis, and code quality checks.
+- **Observability & Monitoring:** Prometheus and Grafana for metrics and visualization, with Loki and Grafana Alloy for centralized log collection and processing.
+
+**🏗️ Architecture & Deployment Workflow**
+
+Terraform provisions AWS infrastructure → GitHub Actions builds, tests, scans, and publishes container images → Kubernetes manifests are updated → Argo CD synchronizes the desired state → Applications run on the k3s cluster.
+
+**🧰 Technology Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,redis"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,terraform"/>
+<img src="https://skillicons.dev/icons?i=github,githubactions"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Argo%20CD-GitOps-orange?style=flat-square&logo=argo"/>
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat-square&logo=prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=flat-square&logo=grafana"/>
+<img src="https://img.shields.io/badge/Trivy-Security-1904DA?style=flat-square"/>
+<img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sefaul-islam/micro_service_automation">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   A collection of projects showcasing my work in backend engineering, full-stack development, distributed systems, and cloud technologies.
 </p>
 
-## 🍔 01. QuickMunch
+## 🍔 02. QuickMunch
 
 ### Microservices-Based Food Delivery Platform
 
@@ -107,7 +163,7 @@ A production-oriented food delivery platform designed around independently deplo
 
 ---
 
-## 🌐 02. SocialStream
+## 🌐 03. SocialStream
 
 ### Full-Stack Social Media Platform
 
